@@ -9,10 +9,11 @@ namespace OctoShell
     {
         static void Main(string[] args)
         {
+            Console.SetWindowSize(35, 35);
+
             FigletFont font = FigletFont.Load("slant.flf");
             Figlet figlet = new Figlet(font);
 
-            Console.SetWindowSize(40, 40);
             Console.WriteLine(figlet.ToAscii("Github"), ColorTranslator.FromHtml("#8AFFEF"));
 
             var content = @".------------------------------------------------------------------------------.
@@ -31,10 +32,10 @@ namespace OctoShell
 |              MMMMMMMMMM                             MMMMMMMMMM               |
 |              `MMMMMMMMMM                           MMMMMMMMMM`               |
 |               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
-|                MMMMMMMMMMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
-|                 MMMMMMMMMMMMMMMM           MMMMMMMMMMMMMMMM                  |
-|                  `MMMMMMMMMMMMMM           MMMMMMMMMMMMMM`                   |
-|                    `MMMMMMMMMMMM           MMMMMMMMMMMM`                     |
+|                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
+|                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
+|                  `MMMMMM  ""MMMMM           MMMMMMMMMMMMMM`                   |
+|                    `MMMMMm                 MMMMMMMMMMMM`                     |
 |                      `""MMMMMMMMM           MMMMMMMMM""`                       |
 |                         `""MMMMMM           MMMMMM""`                          |
 |                             `""""M           M""""`                              |
