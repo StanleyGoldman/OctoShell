@@ -9,10 +9,11 @@ namespace OctoShell
     {
         static void Main(string[] args)
         {
+            Console.SetWindowSize(35, 35);
+
             FigletFont font = FigletFont.Load("slant.flf");
             Figlet figlet = new Figlet(font);
 
-            Console.SetWindowSize(40, 40);
             Console.WriteLine(figlet.ToAscii("Github"), ColorTranslator.FromHtml("#8AFFEF"));
 
             var content = @".------------------------------------------------------------------------------.
