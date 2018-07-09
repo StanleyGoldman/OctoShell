@@ -32,10 +32,10 @@ namespace OctoShell
 |              MMMMMMMMMM                             MMMMMMMMMM               |
 |              `MMMMMMMMMM                           MMMMMMMMMM`               |
 |               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
-|                MMMMMMMMMMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
-|                 MMMMMMMMMMMMMMMM           MMMMMMMMMMMMMMMM                  |
-|                  `MMMMMMMMMMMMMM           MMMMMMMMMMMMMM`                   |
-|                    `MMMMMMMMMMMM           MMMMMMMMMMMM`                     |
+|                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
+|                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
+|                  `MMMMMM  ""MMMMM           MMMMMMMMMMMMMM`                   |
+|                    `MMMMMm                 MMMMMMMMMMMM`                     |
 |                      `""MMMMMMMMM           MMMMMMMMM""`                       |
 |                         `""MMMMMM           MMMMMM""`                          |
 |                             `""""M           M""""`                              |
