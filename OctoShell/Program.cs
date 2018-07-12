@@ -14,7 +14,7 @@ namespace OctoShell
             FigletFont font = FigletFont.Load("slant.flf");
             Figlet figlet = new Figlet(font);
 
-            Console.WriteLine(figlet.ToAscii("Github"), ColorTranslator.FromHtml("#8AFFEF"));
+            Console.WriteLine(figlet.ToAscii("Github"), ColorTranslator.FromHtml("#0000F0"));
 
             var content = @".------------------------------------------------------------------------------.
 |                             .mmMMMMMMMMMMMMMmm.                              |
