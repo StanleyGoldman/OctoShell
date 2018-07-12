@@ -22,8 +22,8 @@ namespace OctoShell
 |                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       |
 |                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     |
 |                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   |
-|                 MMMMMMMM'  `""MMMMM""""""""""""""MMMM""""`  'MMMMMMMM                  |
-|                MMMMMMMMM                           MMMMMMMMM                 |
+|                 MMMMMMMMMMMMMMMMMM""""""""""""""""MMMM""""`  'MMMMMMM                  |
+|                MMMMMMMMMMMMM'                      MMMMMMMMM                 |
 |               MMMMMMMMMM:                         :MMMMMMMMMM                |
 |              .MMMMMMMMMM                           MMMMMMMMMM.               |
 |              MMMMMMMMM""                             ""MMMMMMMMM               |
